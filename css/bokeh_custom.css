@@ -1,0 +1,17 @@
+.bk-root .bk-bs-btn-default.bk-bs-active:nth-of-type(1){
+	color: #d62728;
+	background-color: rgba(214,39,40, 0.1);
+	font-size: 20;
+}
+.bk-root .bk-bs-btn-default.bk-bs-active:nth-of-type(2){
+	color: #2ca02c;
+	background-color: rgba(44,160,44, 0.1);
+}
+.bk-root .bk-bs-btn-default.bk-bs-active:nth-of-type(3){
+	color: #ff7f0e;
+	background-color: rgba(255,127,14,0.1);
+}
+.bk-root .bk-bs-btn-default.bk-bs-active:nth-of-type(4){
+	color: #1f77b4;
+	background-color: rgba(31,119,179, 0.1);
+}
