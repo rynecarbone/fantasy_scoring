@@ -1,5 +1,6 @@
 # fantasy_scoring
 Evaluate how scoring type and roster settings affect fantasy positional value.
+
 Explore an [interactive demo](http://rynecarbone.github.io/ff/scoring/) showcasing the final result.
 
 ## Installation
